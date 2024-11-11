@@ -1,4 +1,4 @@
-# Clasificación de Mensajes Ofensivos en Twitter con Big Data y Machine Learning
+# Clasificación de Mensajes Ofensivos en Twitter Utilizando Big Data y Machine Learning
 
 Este proyecto utiliza técnicas de Big Data y Machine Learning para clasificar tweets en tres categorías: mensajes de odio, mensajes ofensivos y mensajes neutrales. El análisis se realiza mediante herramientas como  Apache Sqoop, Apache Hive y Apache Spark.
 
