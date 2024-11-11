@@ -21,3 +21,7 @@ MySQL: Base de datos inicial donde se aloja el dataset para el proyecto.
 Apache Sqoop: Para importar datos desde MySQL hacia Hive.
 Apache Hive: Para el almacenamiento y consulta de grandes volúmenes de datos.
 Apache Spark: Procesamiento de datos y entrenamiento de modelos de Machine Learning con Spark MLlib.
+
+## Resultados
+
+El proyecto concluye con la evaluación del modelo de clasificación, mostrando precisión y ejemplos de predicciones en el conjunto de prueba.
