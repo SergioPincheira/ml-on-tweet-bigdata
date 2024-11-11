@@ -7,7 +7,7 @@ Este proyecto utiliza técnicas de Big Data y Machine Learning para clasificar t
 El propósito de este proyecto es desarrollar un modelo predictivo para clasificar automáticamente mensajes en la plataforma Twitter, con un enfoque en la detección de mensajes ofensivos o de odio. Las redes sociales, como Twitter, están interesadas en esta clasificación para reducir la difusión de mensajes ofensivos y prevenir posibles conflictos.
 
 ## Dataset
-El dataset usado es el Hate Speech and Offensive Language Dataset de Kaggle, que contiene mensajes clasificados en tres clases:
+El dataset usado es el Hate Speech and Offensive Language Dataset de Kaggle (https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset), que contiene mensajes clasificados en tres clases:
 
 - Clase 0: Mensaje de odio (hate speech)
 - Clase 1: Mensaje ofensivo (offensive language)
